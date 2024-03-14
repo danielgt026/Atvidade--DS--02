@@ -1,0 +1,14 @@
+C:\Lista_de_funcionarios\bin\Debug\net8.0\Lista_de_funcionarios.exe
+C:\Lista_de_funcionarios\bin\Debug\net8.0\Lista_de_funcionarios.deps.json
+C:\Lista_de_funcionarios\bin\Debug\net8.0\Lista_de_funcionarios.runtimeconfig.json
+C:\Lista_de_funcionarios\bin\Debug\net8.0\Lista_de_funcionarios.dll
+C:\Lista_de_funcionarios\bin\Debug\net8.0\Lista_de_funcionarios.pdb
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.AssemblyInfoInputs.cache
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.AssemblyInfo.cs
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.csproj.CoreCompileInputs.cache
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.dll
+C:\Lista_de_funcionarios\obj\Debug\net8.0\refint\Lista_de_funcionarios.dll
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.pdb
+C:\Lista_de_funcionarios\obj\Debug\net8.0\Lista_de_funcionarios.genruntimeconfig.cache
+C:\Lista_de_funcionarios\obj\Debug\net8.0\ref\Lista_de_funcionarios.dll
